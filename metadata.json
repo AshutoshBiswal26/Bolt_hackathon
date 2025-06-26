@@ -1,0 +1,8 @@
+
+{
+  "name": "Wildlife Species Recognition and Conservation Assistant",
+  "description": "An AI-powered tool to identify wildlife species from images, providing conservation status and threat information. Helps monitor animal populations and raise awareness about endangered species.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
